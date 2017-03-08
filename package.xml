@@ -1,7 +1,8 @@
 <package>
   <name>asr_resources_for_psm</name>
   <version>1.0.0</version>
-  <description>This package contains resources for probabilistic scene modelling</description>
+  <description>This package contains resources for probabilistic scene modelling (PSM) for use in PSM-related packages.
+  It specifically contains a class representing an object pose and operations on it.</description>
   <author>Gehrung Joachim, Meißner Pascal</author>
   <maintainer email="asr-ros@lists.kit.edu">Meißner Pascal</maintainer>
   <license>BSD</license>
